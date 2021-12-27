@@ -1,4 +1,3 @@
 # pyorgel
 
-pythonで音楽を流すだけ
-/midiにmidiファイルを入れたら流せる
+python で音楽を流すだけ
